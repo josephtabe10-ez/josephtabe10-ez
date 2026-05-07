@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-### 🚀 [Full-Stack Developer / Student]
+### 🚀 Full-Stack Developer / Student
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building web applications using **[Flask]**
-- 🌱 I’m currently learning **[Python/Flask]**
-- 💬 Ask me about **[Topics you enjoy]**
+- 🔭 I’m currently building web applications using **Flask**
+- 🌱 I’m currently learning **Python/Flask**
+- 💬 Ask me about **Topics you enjoy**
 - ⚡ Fun fact: **I love making cat websites but I don't like cats!**
 
 ---
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 GitHub Stats
-![Joseph's Stats](https://github-readme-stats.vercel.app/api?username=josephtabe10-ez&show_icons=true&theme=dracula)
+![Joseph's Stats](https://github-readme-stats.vercel.app/api?username=josephtabe10-ez&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephtabe10-ez&layout=compact&theme=dracula)
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/joseph-tabe-18b627402/) | [Email](mailto:josephtabe22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-tabe-18b627402/) | [Email](mailto:josephtabe22@gmail.com)
