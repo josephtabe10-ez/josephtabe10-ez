@@ -1,48 +1,60 @@
-## Hi, I'm Joseph! 👋
+# Joules
+**Aspiring Software Developer | Frontend Development | Python**
 
-<!--
-**josephtabe10-ez/josephtabe10-ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building web experiences, learning through hands-on projects, and growing toward software engineering.
 
-Here are some ideas to get you started:
+**GitHub:** https://github.com/josephtabe10-ez  
+**Featured Project:** Cosmo — https://github.com/josephtabe10-ez/horoscope  
+**Live Demo:** https://cosmo-926y.onrender.com  
+**Contact:** josephtabe10@gmail.com  
+**Location:** Nigeria · Interested in remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ABOUT ME
 
+I'm a self-directed software developer focused on turning ideas into practical web experiences and improving my skills through hands-on development.
 
-### 🚀 Full-Stack Developer / Student
+My current technology stack includes HTML, CSS, JavaScript, React, Python, MySQL, and Flask. I'm particularly interested in frontend development, building well-structured applications, and understanding how software can turn an idea into something people can use.
 
----
+I'm currently building **Cosmo**, a zodiac-content website designed around a polished, high-end web experience. I invite developers, potential collaborators, and curious visitors to explore the live demo and test the experience for themselves.
 
-### 👨‍💻 About Me
-- 🔭 I’m currently building web applications using **Flask**
-- 🌱 I’m currently learning **Python/Flask**
-- 💬 Ask me about **Topics you enjoy**
-- ⚡ Fun fact: **I love making cat websites but I don't like cats!**
+I'm open to remote internships, junior developer opportunities, freelance projects, and opportunities to collaborate with other developers.
 
----
+## TECH STACK
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143057?style=for-the-badge&logo=pycharm&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Flask
+- **Database:** MySQL
+- **Version Control:** Git and GitHub — basic working knowledge
 
----
+## FEATURED PROJECT
 
-### 📈 GitHub Stats
-![Joseph's Stats](https://github-readme-stats.vercel.app/api?username=josephtabe10-ez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephtabe10-ez&layout=compact&theme=dracula)
+### Cosmo — Zodiac Content Website
+**Status:** In development
 
----
+A personal project exploring how zodiac content can be presented through a polished, modern web experience.
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-tabe-18b627402/) | [Email](mailto:josephtabe22@gmail.com)
+**Explore the project**
+- GitHub repository: https://github.com/josephtabe10-ez/horoscope
+- Live website: https://cosmo-926y.onrender.com
+
+**Current development highlights**
+- React-based frontend.
+- Multiple pages and reusable components.
+- A focus on a polished, high-end website experience.
+- Ongoing development and refinement of the overall application.
+
+The project is still in development. Visitors are welcome to explore the website and test the currently available experience.
+
+## LEARNING AND DEVELOPMENT
+
+**100 Days of Code — Angela Yu**
+
+Completed most of the coursework and project work. Continuing to build practical programming skills through independent development. No certificate claimed.
+
+## CURRENT GOALS
+
+- Build useful, well-presented web applications.
+- Strengthen programming and software engineering fundamentals.
+- Expand my portfolio with projects people can explore and evaluate.
+- Improve my development workflow and learn from feedback.
+- Find opportunities to contribute to real-world software projects.
